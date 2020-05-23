@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mulaiPeriksa">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/G01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+                android:text="@string/Pertanyaan1"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan2"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan3"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan4"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G05"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan5"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan6"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan7"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan8"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan9"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T05"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan10"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T06"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan11"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="217dp" />
+
+            <CheckBox
+                android:id="@+id/G06"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan12"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="113dp" />
+
+            <CheckBox
+                android:id="@+id/G07"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan13"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G08"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan14"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G09"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan15"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan16"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan17"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan18"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan19"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan20"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan21"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan22"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan23"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T08"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan24"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T09"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan25"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan26"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan27"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan28"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan29"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan30"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T07"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan31"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+
+            <CheckBox
+                android:id="@+id/T15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan32"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan33"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan34"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan35"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan36"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan37"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan38"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan39"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan40"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/T19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan41"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="307dp" />
+
+            <CheckBox
+                android:id="@+id/G23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan42"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="217dp" />
+
+            <CheckBox
+                android:id="@+id/G24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan43"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="113dp" />
+
+            <CheckBox
+                android:id="@+id/T20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan44"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan45"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan46"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan47"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan48"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan49"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/T24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan50"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <CheckBox
+                android:id="@+id/G27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:onClick="onCheckboxClicked"
+
+                android:text="@string/Pertanyaan51"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="buttonDeteksi"
+            android:text="@string/Deteksi"
+            tools:layout_editor_absoluteX="116dp"
+            tools:layout_editor_absoluteY="408dp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="buttonHome"
+            android:text="@string/ButtonHome1"
+            tools:layout_editor_absoluteX="116dp"
+            tools:layout_editor_absoluteY="456dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tentangAplikasi">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="100dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5pt"
+                android:text="@string/TentangAplikasi1"
+                tools:layout_editor_absoluteX="1dp"
+
+
+                tools:layout_editor_absoluteY="16dp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="55pt"
+                android:layout_height="55pt"
+                android:layout_gravity="center"
+                android:contentDescription="@android:string/defaultMsisdnAlphaTag"
+                android:src="@drawable/foto" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi2"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi3"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi4"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi5"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi6"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi7"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi8"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi9"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi10"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="55pt"
+                android:layout_height="55pt"
+                android:layout_gravity="center"
+                android:layout_margin="5pt"
+                android:contentDescription="@string/Pertanyaan20"
+                android:src="@drawable/dokter" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi11"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi12"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi13"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi14"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi15"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi16"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi17"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/TentangAplikasi18"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="16dp"
+                android:layout_margin="5pt"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+        android:gravity="bottom|center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="button1"
+            android:text="@string/ButtonHome3"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="447dp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

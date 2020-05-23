@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Leo Putra\\Videos\\DeteksiDiniPenyakitDiabetesMellitus01\\DeteksiDiniPenyakitDiabetesMellitus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Leo Putra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\dc03c8d7e647da413ca9c0eb8fff7521\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

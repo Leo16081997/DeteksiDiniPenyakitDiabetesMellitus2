@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Deteksi Dini Penyakit Diabetes Mellitus</string>
+
+    <string name="judul_button">Masuk</string>
+    <string name="SelamatDatang">SELAMAT DATANG DI APLIKASI DETEKSI DINI PENYAKIT DIABETES MELLITUS</string>
+
+    <string name="Button1">Mulai Periksa</string>
+    <string name="Button2">Referensi Data Pakar</string>
+    <string name="Button3">Tentang Aplikasi</string>
+
+
+    <string name="Pertanyaan1">Apakah anda mengalami hipertensi atau tekanan darah tinggi biasanya emosi anda tidak bisa dikendalikan dan mengelurkan atau melepaskan emosi anda sangat berlebihan baik dari segi suara atau teriakan maupun dari segi aksi seperti memukul benda di sekitar anda dan sensitive terhadap perasaan yang gampang tersinggung dan gampang marah baik saat berada di lingkungan orang banyak maupun sedang sendiri (tekanan darah lebih dari atau sama dengan 140/90 mmHg)</string>
+    <string name="Pertanyaan2">Apakah anda banyak makan (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin) tetapi berat badan tidak meningkat ?</string>
+    <string name="Pertanyaan3">Apakah penurunan berat badan anda menurun secara tiba - tiba ?</string>
+    <string name="Pertanyaan4">Apakah anda mengalami gangguan masa pertumbuhan (pertumbuhan melambat dari segi tinggi badan dan berat badan yang tidak sesuai dengan usia anda)?</string>
+    <string name="Pertanyaan5">Apakah anda mengalami autoimun (sistem kekebalan tubuh melemah sehingga mudah terserang penyakit seperti flu, batuk atau pilek, hal ini disebabkan karena kinerja sistem imun menurun) ?</string>
+    <string name="Pertanyaan6">Apakah anda memiliki riwayat genetik Diabetes Mellitus ?</string>
+    <string name="Pertanyaan7">Apakah anda saat bayi baru lahir memiliki berat badan lebih dari 4 kilogram ?</string>
+    <string name="Pertanyaan8">Apakah anda terdapat luka atau bisul yang sukar sembuh ?</string>
+    <string name="Pertanyaan9">Apakah usia anda di bawah 25 tahun ?</string>
+    <string name="Pertanyaan10">Apakah anda memiliki riwayat genetik Kardiovaskular (penyakit jantung dimana kondisi penderitanya mengalami penyempitan atau penyumbatan pembuluh darah) ?</string>
+    <string name="Pertanyaan11">Apakah ada terdapat kencing manis pada urine anda (urine berwarna orange kecoklatan, semut mengerumuni urine saat urine dikeluarkan dan didiamkan hingga beberapa menit) ?</string>
+    <string name="Pertanyaan12">Apakah anda sering buang air kecil (buang air kecil lebih dari 5 kali per hari atau setara dengan membuang air kecil untuk perempuan lebih dari 1.3 liter per hari dan untuk laki-laki lebih dari 1.6 liter per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan13">Apakah anda sering haus (untuk perempuan minum lebih dari 2.1 liter per hari dan untuk pria minum lebih dari 2.6 liter per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan14">Apakah anda sering lapar (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan15">Apakah anda banyak makan (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin) tetapi tubuh lemah (kurangnya stamina untuk melakukan beberapa aktivitas)?</string>
+    <string name="Pertanyaan16">Apakah tubuh anda cepat lemas (kurangnya semangat untuk melakukan beberapa aktivitas)?</string>
+    <string name="Pertanyaan17">Apakah anda merasa ngantuk yang berlebihan (menguap lebih dari 5 kali per hari secara berkala atau rutin)?</string>
+    <string name="Pertanyaan18">Apakah anda sering kesemutan (durasi kesemutan lebih dari 5 detik dan lebih dari 3 kali per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan19">Apakah kulit anda sering gatal (durasi gatal lebih dari 5 detik dan lebih dari 3 kali per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan20">Apakah mata anda mengalami peningkatan myopia atau hyperopia ?</string>
+    <string name="Pertanyaan21">Apakah anda mengalami desfungsi ereksi (ketidakmampuan mencapai atau mempertahankan ereksi dengan baik dalam berhubungan seksual)?</string>
+    <string name="Pertanyaan22">Apakah gairah seks anda berkurang ?</string>
+    <string name="Pertanyaan23">Apakah bagian luar vagina anda terasa gatal ?</string>
+    <string name="Pertanyaan24">Apakah sperma anda cair ?</string>
+    <string name="Pertanyaan25">Apakah anda Obesitas Umum atau Kegemukan Umum (Body Mass Index = Berat Badan (kg) / Tinggi Badan (m²), Body Mass Index lebih dari atau sama dengan 25 kg/m²) ?</string>
+    <string name="Pertanyaan26">Apakah kulit anda mencul keriput atau kulit terasa kusam yang tidak sesuai dengan usia anda (mengalami penuaan dini)?</string>
+    <string name="Pertanyaan27">Apakah anda jarang berolahraga (membakar kalori kurang dari 1000 kkal per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan28">Apakah anda jarang mengkonsumsi makanan dan minuman yang tinggi serat (kurang dari 800 kkal per hari secara berkala atau rutin)?</string>
+    <string name="Pertanyaan29">Apakah anda perokok (mengonsumsi nikotin lebih dari 9 mg dan tar lebih dari 30 mg atau setara dengan 3 batang rokok per 1 hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan30">Apakah anda sering minum minuman beralkohol (mengonsumsi kadar alkohol lebih dari 40% per 7 hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan31">Apakah usia anda di atas 25 tahun ?</string>
+
+    <string name="Pertanyaan32">Apakah anda sering mengkonsumsi makanan atau minuman yang mengandung gula lebih dari 50 gram gula atau 2 sendok makan per hari secara berkala atau rutin ?</string>
+    <string name="Pertanyaan33">Apakah anda sering mengkonsumsi makanan gorengan yang mengandung lemak lebih dari 67 gram atau setara dengan 3 sendok makan minyak ?</string>
+    <string name="Pertanyaan34">Apakah anda sering merasakan pusing atau sakit kepala baik migraine maupun secara menyeluruh di kepala yang berkepanjangan (lebih dari 15 hari dalam satu bulan, yang terjadi selama tiga bulan berturut-turut) ?</string>
+    <string name="Pertanyaan35">Apakah anda sering merasakan tegang leher yang berkepanjangan (lebih dari 10 hari dalam satu bulan, yang terjadi selama tiga bulan berturut-turut) ?</string>
+    <string name="Pertanyaan36">Apakah anda sering mengkonsumsi makanan atau minuman yang mengandung kafein seperti kopi, pil kafein, kapsul kafein, dan lain-lain lebih dari 2 gram per hari secara berkala atau rutin ?</string>
+    <string name="Pertanyaan37">Apakah anda mengalami sleep apnea (kondisi di mana napas Anda berhenti secara berulang saat tidur dan dapat secara otomatis kembali lagi, bangun mendadak disertai sesak napas dan mendengkur kencang) ?</string>
+    <string name="Pertanyaan38">Apakah anda mengalami Restless Legs Syndrom (kondisi neurologis yang menyebabkan anda memiliki keinginan tidak terkontrol untuk menggerakkan kaki anda baik saat anda sedang duduk maupun tidur) ?</string>
+    <string name="Pertanyaan39">Apakah anda mengalami susah tidur di malam hari (insomnia) ?</string>
+    <string name="Pertanyaan40">Apakah anda memiliki riwayat genetik pankreatitis (peradangan kelenjar yang terjadi di dalam pankreas)  ?</string>
+    <string name="Pertanyaan41">Apakah anda sering mengkonsumsi makanan atau minuman cepat saji, seperti mie instan, junk food dan lain-lain (lebih dari atau sama dengan 2000 kkal per hari secara berkala atau rutin) ?</string>
+    <string name="Pertanyaan42">Apakah anda susah berkonsentrasi saat melakukan kegiatan atau aktivitas ?</string>
+    <string name="Pertanyaan43">Apakah anda mengalami demensia jangka pendek (lupa dengan peristiwa yang barusan saja terjadi atau peristiwa yang belum terlalu lama terjadi) ?</string>
+    <string name="Pertanyaan44">Apakah anda memiliki riwayat genetik penyakit stroke ?</string>
+    <string name="Pertanyaan45">Apakah anda memiliki riwayat genetik penyakit paru-paru obstruktif kronis (penyakit peradangan paru yang berkembang dalam jangka waktu panjang dan menghalangi aliran udara dari paru-paru karena terhalang pembengkakan dan lendir atau dahak, sehingga penderitanya sulit bernapas) ?</string>
+    <string name="Pertanyaan46">Apakah anda mengalami dislipidemia (nyeri di kaki saat berdiri atau berjalan serta nyeri di tangan saat menulis atau mengangkat benda)  ?</string>
+    <string name="Pertanyaan47">Apakah anda sering merasakan otot dan persendian yang tegang dan kaku setiap 5 jam sekali dalam sehari secara berkala atau rutin tanpa melakukan aktivitas yang berat ?</string>
+    <string name="Pertanyaan48">Apakah anda obesitas sentral atau kegemukan sentral (untuk perempuan memiliki lingkar pinggang lebih dari 80 cm dan untuk laki-laki memiliki lingkar pinggang lebih dari 90 cm) ?</string>
+    <string name="Pertanyaan49">Apakah anda memiliki riwayat genetik penyakit kanker ?</string>
+    <string name="Pertanyaan50">Apakah anda memiliki riwayat genetik penyakit ginjal ?</string>
+    <string name="Pertanyaan51">Apakah anda mengalami polycystic ovary syndrome (menstruasi tidak teratur dimana dalam setahun frekuensi menstruasi lebih sedikit, atau jumlah darah yang dikeluarkan saat menstruasi lebih banyak ?</string>
+
+
+    <string name="Deteksi">Deteksi</string>
+    <string name="ButtonHome1">Home</string>
+
+
+    <string name="ReferensiDataPakar1">Berikut ini penjelasan mengenai Diabetes Mellitus mulai dari definisi, klasaifikasi, faktor resiko, gejala-tanda, hingga komplikasi penyakit terhadap Diabetes Mellitus berdasarkan referensi ilmu pengetahuan kedokteran dan pengetahuan dokter mengenai Diabetes Mellitus :</string>
+    <string name="ReferensiDataPakar2">1. Definisi Diabetes Mellitus, Diabetes Mellitus (DM) adalah suatu kumpulan gejala yang timbul pada seseorang yang disebabkan oleh karena adanya peningkatan kadar gula (glukosa) darah akibat kekurangan insulin baik absolut maupun relatif. Dalam proses metabolisme insulin memegang peranan yang sangat penting yaitu bertugas memasukkan glukosa ke dalam sel untuk selanjutnya dapat digunakan sebagai bahan bakar.</string>
+    <string name="ReferensiDataPakar3">2. Klasifikasi Diabetes Mellitus</string>
+    <string name="ReferensiDataPakar4">a. Diabetes Mellitus Tipe 1 (DMT1), DMT1 umumnya terjadi pada usia 0 sampai 25 tahun karena DMT1 merupakan penyakit genetik yang memungkinkan dapat diturunkan keturunan selanjutnya. DMT1 adalah penyakit gangguan metabolik yang ditandai kenaikan kadar gula darah akibat destruksi (kerusakan) sel beta pankreas (kelenjar ludah perut) karena suatu sebab tertentu yang menyebabkan produksi insulin tidak ada sama sekali dan akibat defect genetik fungsi sel beta pankreas dan defect genetik kinerja insulin sehingga penderita memerlukan tambahan insulin dari luar.</string>
+    <string name="ReferensiDataPakar5">b. Diabetes Mellitus Tipe 2 (DMT2), DMT2 umumnya terjadi pada usia di atas 25 tahun karena DMT2 merupakan penyakit yang terjadi akibat pola hidup yang tidak sehat seperti jarang berolahraga, mengkonsumsi makanan – minuman tinggi gula dan lemak (makanan junk food, instan food dan makanan – minuman kemasan), kebiasaan merokok, kebiasaan minum minuman beralkohol, waktu tidur yang tidak normal (kurang dari 8 jam atau lebih dari 8 jam) dan lain – lain. DMT2 adalah penyakit gangguan metabolik yang ditandai kenaikan kadar gula darah akibat penurunan sekresi insulin oleh sel beta pankreas dan atau fungsi insulin (resistensi insulin).</string>
+    <string name="ReferensiDataPakar6">3. Faktor Resiko Diabetes Mellitus, banyak faktor yang merupakan faktor resiko DM dan dapat dikelompokkan menjadi tiga kelompok yaitu sosiodemografi terdiri dari umur, jenis kelamin, tingkat pendidikan dan pekerjaan. Faktor perilaku dan gaya hidup seperti kebiasaan merokok, konsumsi alkohol dan aktivitas fisik. Keadaan klinis atau mental seperti indeks masa tubuh (kegemukan), lingkar pinggang (obesitas sentral) dan stres</string>
+    <string name="ReferensiDataPakar7">4. Gejala - Tanda Diabetes Mellitus</string>
+    <string name="ReferensiDataPakar8">Gejala merupakan keluhan subjektif apa yang dialami atau dirasakan oleh pasien sedangkan tanda merupakan ciri objektif apa yang dilihat oleh dokter pada pasien. Berikut ini gejala - tanda Diabetes Mellitus Tipe 1 dan 2 :</string>
+    <string name="ReferensiDataPakar9">a. Gejala Diabetes Mellitus Tipe 1 (DMT1) yaitu Mengalami hipertensi atau tekanan darah tinggi biasanya emosi anda tidak bisa dikendalikan dan mengelurkan atau melepaskan emosi anda sangat berlebihan baik dari segi suara atau teriakan maupun dari segi aksi seperti memukul benda di sekitar anda dan sensitive terhadap perasaan yang gampang tersinggung dan gampang marah baik saat berada di lingkungan orang banyak maupun sedang sendiri (tekanan darah lebih dari atau sama dengan 140/90 mmHg), Banyak makan (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin) tetapi berat badan tidak meningkat, Penurunan berat badan secara tiba-tiba, Mengalami gangguan masa pertumbuhan (pertumbuhan melambat dari segi tinggi badan dan berat badan yang tidak sesuai dengan usia anda), Mengalami autoimun (sistem kekebalan tubuh melemah sehingga mudah terserang penyakit seperti flu, batuk atau pilek, hal ini disebabkan karena kinerja sistem imun menurun).</string>
+    <string name="ReferensiDataPakar10">b. Tanda Diabetes Mellitus Tipe 1 (DMT1) yaitu memiliki riwayat genetik Diabetes Mellitus, berada di lingkingan orang yang menderita Diabetes Mellitus, terdapat luka atau bisul yang sukar sembuh, usia 0 tahun sampai 25 tahun, memiliki riwayat genetik kardiovaskular (penyakit jantung) dan kencing manis (urine berwarna orange kecoklatan, semut mengerumuni urine saat urine dikeluarkan dan didiamkan hingga beberapa menit).</string>
+    <string name="ReferensiDataPakar11">c. Gejala Diabetes Mellitus Tipe 2 (DMT2) yaitu sering buang air kecil atau polluria (buang air kecil lebih dari 5 kali per hari), sering haus atau banyak minum atau polidipsia (minum lebih dari 2.5 liter per liter), sering lapar atau banyak makan atau polifagia (mengonsumsi kalori lebih dari 3000 kkal per hari), banyak makan (mengonsumsi kalori lebih dari 3000 kkal per hari) tetapi tubuh lemah (kurangnya stamina untuk melakukan beberapa aktivitas) , tubuh cepat lelah (kurangnya semangat untuk melakukan beberapa aktivitas), rasa ngantuk yang berlebihan (menguap lebih dari 5 kali per hari), sering kesemutan (lebih dari 3 kali per hari), kulit terasa gatal, meningkatnya myopia atau hyperopia, mengalami disfungsi ereksi pada pria (ketidakmampuan mencapai atau mempertahankan ereksi dengan baik dalam berhubungan sekesual), berkurangnya gairah seks dan mengalami pruvitus vulva pada wanita.</string>
+    <string name="ReferensiDataPakar12">d. Tanda Diabetes Mellitus Tipe 2 (DMT2) yaitu usia lebih dari 25 tahun, sprema cair pada pria, kegemukan (Body Mass Index = Berat Badan (kg) / Tinggi Badan (m), Body Mass Index lebih dari 23 kg/m), penuaan dini (kulit muncul keriput atau kulit terasa kusam yang tidak sesuai dengan usia anda), kurangnya aktifias fisik atau jarang berolahraga (membakar kalori kurang dari 1000 kkal), jarang mengonsumsi makanan dan minuman yang tinggi serat (kurang dari 800 kkal), kebiasaan merokok (mengonsumsi nikotin lebih dari 10 mg dan tar lebih dari 30 mg atau setara dengan 5 batang roko per hari secara berksla atau rutin) dan kebiasaan minum minuman beralkohol (mengonsumsi kadar alkohol lebih dari 40% per 7 hari secara berkala atau rutin)</string>
+    <string name="ReferensiDataPakar13">5. Komplikasi Penyakit Terhadap Diabetes Mellitus</string>
+    <string name="ReferensiDataPakar14">a. Komplikasi Akut Diabetes Mellitus yaitu :</string>
+    <string name="ReferensiDataPakar15">*) Hipoglikemia merupakan penyebab terjadinya hipoglikemia adalah makan yang kurang dari aturan yang ditentukan, berat badan turun, sesudah olahraga, sesudah melahirkan, sembuh dari sakit dan pemberian suntikan insulin yang tidak tepat. Tanda-tanda hipoglikemia di bagi dalam beberapa stadium, pada stadium parasimpatik berupa lapar, mual, tekanan darah turun. Stadium gangguan otak ringan berupa lemah, lesu, sulit bicara dan kesulitan menghitung sederhana. Stadium simpatik berupa keringat dingin di muka terutama di hidung, bibir atau tangan dan berdebar-debar. Sedangkan pada stadium gangguan otak berat dapat berupa koma dengan atau tanpa kejang.</string>
+    <string name="ReferensiDataPakar16">*) Hiperglicemia Ketoasidosis Diabetik merupakan defisiensi insulin berat dan akut dari suatu perjalanan penyakit DM. Timbulnya KAD merupakan ancaman kematian bagi penderita Diabetes Mellitus.</string>
+    <string name="ReferensiDataPakar17">*) Hiperglicemia Non Ketonik ditandai dengan hiperglikemia berat non ketonik atau ketonik dan asidosis ringan. Pada keadaan lanjut dapat mengalami koma. Koma hiperosmolar hiperglikemik non ketonik adalah suatu sindrom yang ditandai hiperglikemik berat, hiperosmolar, dehidrasi berat tanpa ketoasidosis disertai dengan menurunnya kesadaran. Sindrom ini merupakan salah satu dari jenis koma non-ketoasidosis.</string>
+    <string name="ReferensiDataPakar18">b. Komplikasi Kronik Diabetes Mellitus yaitu :</string>
+    <string name="ReferensiDataPakar19">*) Masalah pada mata (retinopati) merupakan Penyebab kebutaan yang paling sering pada usia dewasa 20 sampai 74 tahun disebabkan karena retinopati diabetik. Risiko mengalami retinopati pada pasien diabetes meningkat sejalan dengan lamanya diabetes.</string>
+    <string name="ReferensiDataPakar20">*) Penyakit jantung koroner merupakan Penyebab kematian utama pada pasien DM adalah penyakit jantung koroner yang merupakan salah satu penyulit makrovaskular pada DM. Penyulit makrovaskular ini bermanifestasi sebagai aterosklerosis dini yang dapat mengenai organ-organ vital seperti jantung dan otak.</string>
+    <string name="ReferensiDataPakar21">*) Gangguan fungsi ginjal (nefropati) merupakan Nefropati diabetik adalah komplikasi pada Diabetes Mellitus dapat menyebabkan gangguan fungsi ginjal sehingga memerlukan tindakan cuci ginjal atau transplantasi ginjal.</string>
+    <string name="ReferensiDataPakar22">*) gangguan pada syaraf merupakan Risiko Neuropati Diabetik (ND) yang dihadapi antara lain infeksi berulang, ulkus yang tidak sembuh dan amputasi jari atau kaki.</string>
+    <string name="ButtonHome2">Home</string>
+
+    <string name="TentangAplikasi1">Biografi Pembuat Aplikasi</string>
+    <string name="TentangAplikasi2">Nama : Leo Putra Simanjuntak </string>
+    <string name="TentangAplikasi3">Tempat / Tanggal Lahir : Makassar, 16 Agustus 1997</string>
+    <string name="TentangAplikasi4">Alamat : Jalan Kalijati Indah II No 21, Bandung</string>
+    <string name="TentangAplikasi5">Pekerjaan : Mahasiswa</string>
+    <string name="TentangAplikasi6">NIM : 1103144177</string>
+    <string name="TentangAplikasi7">Jurusan Pendidikan : S1 Sistem Komputer</string>
+    <string name="TentangAplikasi8">Universitas : Universitas Telkom</string>
+    <string name="TentangAplikasi9">Alamat Email : leoputrasimanjuntak@gmail.com</string>
+    <string name="TentangAplikasi10">Biografi Dokter</string>
+    <string name="TentangAplikasi11">Nama : dr. Woro Hapsari Wahyuningrum, SpPK</string>
+    <string name="TentangAplikasi12">Tempat / Tanggal Lahir : Boyolali, 19 Mei 1982</string>
+    <string name="TentangAplikasi13">Alamat : Jalan Sukarajin II Blok Lemah Neundeut No 159, Bandung</string>
+    <string name="TentangAplikasi14">Pekerjaan : Dokter</string>
+    <string name="TentangAplikasi15">NIP : 19820519 200902 2 004</string>
+    <string name="TentangAplikasi16">Instansi : RSUD Kesehatan Kerja Provinsi Jawa Barat</string>
+    <string name="TentangAplikasi17">Alamat Email : worohapsariwahyuningrum@yahoo.co.id</string>
+    <string name="TentangAplikasi18">Apikasi Deteksi Dini Penyakit Diabetes Mellitus Menggunakan Metode Sistem Pakar Forward chaining Berbasis Android bertujuan untuk masyarakat (pengguna aplikasi) tidak perlu mengeluarkan banyak biaya, waktu dan tenaga untuk memeriksa di rumah sakit serta masyarakat juga mengetahui dan memahami faktor bahaya, gejala - tanda dan komplikasi penyakit terhadap Diabetes Mellitus agar dapat mencegah dan menyadari apakah masyarakat termasuk kategori Diabetes Mellitus, Pre Diabetes Mellitus dan tidak Diabetes Mellitus, hasil kesimpulan tersebut akurat dan valid karena berdasarkan referensi ilmu pengetahuan kedokteran dan pengetahuan Dokter mengenai penyakit Diabetes Mellitus</string>
+
+    <string name="ButtonHome3">Home</string>
+
+
+    <string name="ket1">Anda mengalami hipertensi atau tekanan darah tinggi biasanya emosi anda tidak bisa dikendalikan dan mengelurkan atau melepaskan emosi anda sangat berlebihan baik dari segi suara atau teriakan maupun dari segi aksi seperti memukul benda di sekitar anda dan sensitive terhadap perasaan yang gampang tersinggung dan gampang marah baik saat berada di lingkungan orang banyak maupun sedang sendiri (tekanan darah lebih dari atau sama dengan 140/90 mmHg)</string>
+    <string name="ket2">Anda banyak makan (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin) tetapi berat badan tidak meningkat</string>
+    <string name="ket3">Penurunan berat badan anda menurun secara tiba - tiba</string>
+    <string name="ket4">Anda mengalami gangguan masa pertumbuhan (pertumbuhan melambat dari segi tinggi badan dan berat badan yang tidak sesuai dengan usia anda)</string>
+    <string name="ket5">Anda mengalami autoimun (sistem kekebalan tubuh melemah sehingga mudah terserang penyakit seperti flu, batuk atau pilek, hal ini disebabkan karena kinerja sistem imun menurun)</string>
+    <string name="ket6">Anda memiliki riwayat genetik Diabetes Mellitus</string>
+    <string name="ket7">Anda anda saat bayi baru lahir memiliki berat badan lebih dari 4 kilogram</string>
+    <string name="ket8">Anda terdapat luka atau bisul yang sukar sembuh</string>
+    <string name="ket9">Usia anda di bawah 25 tahun</string>
+    <string name="ket10">Anda memiliki riwayat genetik Kardiovaskular (penyakit jantung dimana kondisi penderitanya mengalami penyempitan atau penyumbatan pembuluh darah)</string>
+    <string name="ket11">Anda terdapat kencing manis pada urine anda (urine berwarna orange kecoklatan, semut mengerumuni urine saat urine dikeluarkan dan didiamkan hingga beberapa menit)</string>
+    <string name="ket12">Anda anda sering buang air kecil (buang air kecil lebih dari 5 kali per hari atau setara dengan membuang air kecil untuk perempuan lebih dari 1.3 liter per hari dan untuk laki-laki lebih dari 1.6 liter per hari secara berkala atau rutin)</string>
+    <string name="ket13">Anda sering haus (untuk perempuan minum lebih dari 2.1 liter per hari dan untuk pria minum lebih dari 2.6 liter per hari secara berkala atau rutin)</string>
+    <string name="ket14">Anda sering lapar (untuk perempuan mengkonsumsi lebih dari 2000 kkal per hari dan untuk laki-laki lebih dari 2500 kkal per hari secara berkala atau rutin)</string>
+    <string name="ket15">Anda banyak makan (mwngonsumsi kalori lebih dari 3000 kkal per hari) tetapi tubuh lemah (kurangnya stamina untuk melakukan beberapa aktivitas)</string>
+    <string name="ket16">Tubuh anda cepat lemas (kurangnya semangat untuk melakukan beberapa aktivitas)</string>
+    <string name="ket17">Anda merasa ngantuk yang berlebihan (menguap lebih dari 5 kali per hari secara berkala atau rutin)</string>
+    <string name="ket18">Anda sering kesemutan (durasi kesemutan lebih dari 5 detik dan lebih dari 3 kali per hari secara berkala atau rutin)</string>
+    <string name="ket19">Kulit anda sering gatal (durasi gatal lebih dari 5 detik dan lebih dari 3 kali per hari secara berkala atau rutin)</string>
+    <string name="ket20">Mmata anda mengalami peningkatan myopia atau hyperopia</string>
+    <string name="ket21">Anda mengalami desfungsi ereksi (ketidakmampuan mencapai atau mempertahankan ereksi dengan baik dalam berhubungan seksual)</string>
+    <string name="ket22">Gairah seks anda berkurang</string>
+    <string name="ket23">Bagian luar vagina anda terasa gatal</string>
+    <string name="ket24">Sperma anda cair</string>
+    <string name="ket25">Anda Obesitas Umum atau Kegemukan Umum (Body Mass Index = 𝐵𝑒𝑟𝑎𝑡 𝐵𝑎𝑑𝑎𝑛 (𝑘𝑔)/𝑇𝑖𝑛𝑛𝑔𝑖 𝐵𝑎𝑑𝑎𝑛 (m²), Body Mass Index lebih dari 25 kg/m)</string>
+    <string name="ket26">Kulit anda mencul keriput atau kulit terasa kusam yang tidak sesuai dengan usia anda (mengalami penuaan dini)</string>
+    <string name="ket27">Anda jarang berolahraga (membakar kalori kurang dari 1000 kkal)</string>
+    <string name="ket28">Anda jarang mengonsumsi makanan dan minuman yang tinggi serat (kurang dari 800 kkal)</string>
+    <string name="ket29">Anda perokok (mengonsumsi nikotin lebih dari 9 mg dan tar lebih dari 30 mg atau setara dengan 3 batang rokok per 1 hari secara berkala atau rutin)</string>
+    <string name="ket30">Anda sering minum minuman beralkohol (mengonsumsi kadar alkohol lebih dari 40% per 7 hari secara berkala atau rutin)</string>
+    <string name="ket31">Usia anda di atas 25 tahun</string>
+
+    <string name="ket32">Anda sering mengkonsumsi makanan atau minuman yang mengandung gula lebih dari 50 gram gula atau 2 sendok makan per hari secara berkala atau rutin</string>
+    <string name="ket33">Anda sering mengkonsumsi makanan gorengan yang mengandung lemak lebih dari 67 gram atau setara dengan 3 sendok makan minyak</string>
+    <string name="ket34">Anda sering merasakan pusing atau sakit kepala baik migraine maupun secara menyeluruh di kepala yang berkepanjangan (lebih dari 15 hari dalam satu bulan, yang terjadi selama tiga bulan berturut-turut)</string>
+    <string name="ket35">Anda sering merasakan tegang leher yang berkepanjangan (lebih dari 10 hari dalam satu bulan, yang terjadi selama tiga bulan berturut-turut)</string>
+    <string name="ket36">Anda sering mengkonsumsi makanan atau minuman yang mengandung kafein seperti kopi, pil kafein, kapsul kafein, dan lain-lain lebih dari 2 gram per hari secara berkala atau rutin</string>
+    <string name="ket37">Anda mengalami sleep apnea (kondisi di mana napas Anda berhenti secara berulang saat tidur dan dapat secara otomatis kembali lagi, bangun mendadak disertai sesak napas dan mendengkur kencang)</string>
+    <string name="ket38">Anda mengalami Restless Legs Syndrom (kondisi neurologis yang menyebabkan anda memiliki keinginan tidak terkontrol untuk menggerakkan kaki anda baik saat anda sedang duduk maupun tidur)</string>
+    <string name="ket39">Anda mengalami susah tidur di malam hari (insomnia)</string>
+    <string name="ket40">Anda memiliki riwayat genetik pankreatitis (peradangan kelenjar yang terjadi di dalam pankreas)</string>
+    <string name="ket41">Anda sering mengkonsumsi makanan atau minuman cepat saji, seperti mie instan, junk food dan lain-lain (lebih dari atau sama dengan 2000 kkal per hari secara berkala atau rutin)</string>
+    <string name="ket42">Anda susah berkonsentrasi saat melakukan kegiatan atau aktivitas</string>
+    <string name="ket43">Anda mengalami demensia jangka pendek (lupa dengan peristiwa yang barusan saja terjadi atau peristiwa yang belum terlalu lama terjadi)</string>
+    <string name="ket44">Anda memiliki riwayat genetik penyakit stroke</string>
+    <string name="ket45">Anda memiliki riwayat genetik penyakit paru-paru obstruktif kronis (penyakit peradangan paru yang berkembang dalam jangka waktu panjang dan menghalangi aliran udara dari paru-paru karena terhalang pembengkakan dan lendir atau dahak, sehingga penderitanya sulit bernapas)</string>
+    <string name="ket46">Anda mengalami dislipidemia (nyeri di kaki saat berdiri atau berjalan serta nyeri di tangan saat menulis atau mengangkat benda)</string>
+    <string name="ket47">Anda sering merasakan otot dan persendian yang tegang dan kaku setiap 5 jam sekali dalam sehari secara berkala atau rutin tanpa melakukan aktivitas yang berat</string>
+    <string name="ket48">Anda obesitas sentral atau kegemukan sentral (untuk perempuan memiliki lingkar pinggang lebih dari 80 cm dan untuk laki-laki memiliki lingkar pinggang lebih dari 90 cm)</string>
+    <string name="ket49">Anda memiliki riwayat genetik penyakit kanker</string>
+    <string name="ket50">Anda memiliki riwayat genetik penyakit ginjal</string>
+    <string name="ket51">Anda mengalami polycystic ovary syndrome (menstruasi tidak teratur dimana dalam setahun frekuensi menstruasi lebih sedikit, atau jumlah darah yang dikeluarkan saat menstruasi lebih banyak</string>
+    <string name="ket52">KESIMPULAN :</string>
+
+
+</resources>
